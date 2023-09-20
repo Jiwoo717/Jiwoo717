@@ -7,7 +7,7 @@
   <img alt="Python"
   src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
   <img alt="SQL"
-  src=![SQL Badge](images/sql-badge)/>
+  src=![SQL Badge](images/sql-badge-url/sql-badge)/>
   <img alt="Javascript"
   src="https://img.shields.io/badge/javascript-%23f1c232.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
 </p>
