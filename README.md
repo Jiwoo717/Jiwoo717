@@ -1,6 +1,6 @@
 ## 👋 Hi I'm Eric
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiwoo717&hide=javascript,html&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiwoo717&hide=html&layout=compact)
 
 ## Programming/Languages
 <p>
