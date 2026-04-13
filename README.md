@@ -21,7 +21,7 @@
   <img alt="Snowflake"
     src="https://img.shields.io/badge/Snowflake-36C5F0?style=for-the-badge&logo=snowflake&logoColor=white" />
   <img alt="Docker"
-    src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white" />
+    src="https://img.shields.io/badge/docker%20-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Tableau"
     src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img alt="PostgreSQL"
