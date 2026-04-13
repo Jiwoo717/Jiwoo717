@@ -18,16 +18,16 @@
     src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img alt="AWS"
     src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img alt="Git"
-    src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Snowflake"
     src="https://img.shields.io/badge/Snowflake-36C5F0?style=for-the-badge&logo=snowflake&logoColor=white" />
   <img alt="Docker"
     src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Tableau"
     src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img alt="MySql"
-    src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+  <img alt="PostgreSQL"
+    src="https://img.shields.io/badge/PostgreSQL--white?style=for-the-badge&logo=postgresql&logoColor=white&label=PosTGRESQL&labelColor=%234169E1"/>
+  <img alt="Apache Superset"
+    src="https://img.shields.io/badge/PostgreSQL--white?style=for-the-badge&logo=apachesuperset&logoColor=white&label=Superset&labelColor=%2320A6C9"/>
   <img alt="Figma"
     src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
 </p>
