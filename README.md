@@ -25,9 +25,9 @@
   <img alt="Tableau"
     src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img alt="PostgreSQL"
-    src="https://img.shields.io/badge/PostgreSQL-234169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+    src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="Apache Superset"
-    src="https://img.shields.io/badge/Superset-2320A6C9?style=for-the-badge&logo=apachesuperset&logoColor=white" />
+    src="https://img.shields.io/badge/Superset-20A6C9?style=for-the-badge&logo=apachesuperset&logoColor=white" />
   <img alt="Figma"
     src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
 </p>
