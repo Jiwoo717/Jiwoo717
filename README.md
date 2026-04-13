@@ -24,8 +24,7 @@
     src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Tableau"
     src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img alt="PostgreSQL"
-    src="https://img.shields.io/badge/PostgreSQL--white?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=%234169E1" />
+  <img alt="PostgreSQL"src="https://img.shields.io/badge/PostgreSQL--white?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=%234169E1" />
   <img alt="Apache Superset"
     src="https://img.shields.io/badge/Superset--white?style=for-the-badge&logo=apachesuperset&logoColor=white&labelColor=%2320A6C9" />
   <img alt="Figma"
