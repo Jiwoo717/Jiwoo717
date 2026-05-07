@@ -8,6 +8,8 @@
   src="https://img.shields.io/badge/python%20-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
   <img alt="SQL"
   src="https://img.shields.io/badge/SQL-darkblue.svg?&style=for-the-badge&logo=sql&logoColor=white" />
+  <img alt="SQL"
+  src="https://img.shields.io/badge/TypeScript---?style=for-the-badge&logo=Typescript&logoColor=%23F0FFFF&color=%230096FF" />
   <img alt="Javascript"
   src="https://img.shields.io/badge/javascript-%23f1c232.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
 </p>
