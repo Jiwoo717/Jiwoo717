@@ -14,8 +14,6 @@
   </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiwoo717&hide=html,css&layout=compact)
-
 ## Programming / Languages
 <p>
   <img alt="Python"
